@@ -1,0 +1,4 @@
+train: C:\Samyukta\VIT\Sem6\projects\tmp\TrashBox_train_set\train
+val: C:\Samyukta\VIT\Sem6\projects\tmp\TrashBox_train_set\val
+nc: 7  # Number of classes
+names: ['cardboard', 'e-waste', 'glass', 'medical', 'metal', 'paper', 'plastic']
